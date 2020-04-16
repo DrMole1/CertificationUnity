@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da05836737aac9b4eaa6a2697901bb79, type: 3}
+  m_Name: OrbRoomOpen
+  m_EditorClassIdentifier: 
+  description: "Soudain, un torrent de poussi\xE8re s'abat derri\xE8re vous."
+  roomName: orb room
+  exits:
+  - keyString: ouest
+    exitDescription: Une porte secrete vers l'ouest ...
+    valueRoom: {fileID: 11400000, guid: aed78ffca6b3d6a48a7f134d80ac0f3b, type: 2}
+  interactableObjectsInRoom: []

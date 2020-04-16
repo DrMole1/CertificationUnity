@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da05836737aac9b4eaa6a2697901bb79, type: 3}
+  m_Name: StartingRoom
+  m_EditorClassIdentifier: 
+  description: "Les portes se referment derri\xE8re vous dans un fracas terrible.
+    Vous vous trouvez devant un passage \xE9troit et sombre."
+  roomName: starting room
+  exits:
+  - keyString: nord
+    exitDescription: "Vous voyez une \xE9trange porte au nord, us\xE9e par le temps."
+    valueRoom: {fileID: 11400000, guid: 982195f91b6062940a0279d733cdbebf, type: 2}
+  interactableObjectsInRoom:
+  - {fileID: 11400000, guid: f1ed462f4c823114b97f4ae027d7f7eb, type: 2}
