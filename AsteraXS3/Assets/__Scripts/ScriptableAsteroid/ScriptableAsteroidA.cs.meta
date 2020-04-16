@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a548caff76aa6b941a6c38037407f890
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - meshAsteroidA: {fileID: 4300000, guid: 4745299a8d567455f8d9776a573dfee0, type: 2}
+  - matAsteroidA: {fileID: 2100000, guid: 9e4bdc7d1f8484d849b47eb92eebd6ae, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
