@@ -1,3 +1,3 @@
 # CertificationUnity
 
-This git contains all exercices during my Unity certification.
+This git contains all exercises during my Unity certification.
